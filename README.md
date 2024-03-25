@@ -1,6 +1,6 @@
-# React essiantials project
+# React online shop project
 
-A small project to display core concepts of React library
+A small online shop project to display Context API & useReducer functionality
 
 ## Run Locally
 
